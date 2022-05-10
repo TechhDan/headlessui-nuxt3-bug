@@ -1,6 +1,11 @@
 # Headless UI Vue / Nuxt 3 Bug
 
+localhost:3000/dialog <--- Error 500
+localhost:3000/disclosure <--- Works fine
+
+```
 Error 500 : [Headless UI]: Cannot find ownerDocument for contextElement: null
+```
 
 # Nuxt 3 Minimal Starter
 
