@@ -1,3 +1,7 @@
+# Headless UI Vue / Nuxt 3 Bug
+
+Error 500 : [Headless UI]: Cannot find ownerDocument for contextElement: null
+
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
